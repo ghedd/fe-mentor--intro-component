@@ -1,0 +1,34 @@
+/* ----------------- root ---------------- */
+/* colors */
+:root {
+  --clr-primary: #ff5c5c;
+  --clr-very-dark-blue: #242942;
+  --clr-dark-grayish-blue: #5b5f71;
+  --clr-grayish-blue: #a0a1ac;
+  --light-grayish-blue: #eef3f6;
+}
+
+/* typography */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+
+/* body copy*/
+* {
+  font-size: 18px;
+}
+
+/* headings, call-to-actions, nav */
+:root {
+  --font-tilte-family: "Barlow Condensed", sans-serif;
+  --font-title-weight-bold: 700;
+  --font-title-weight-regular: 400;
+}
+
+/* body */
+:root {
+  --font-body-family: "Barlow", sans-serif;
+  --font-body-weight-regular: 400;
+}
+
+/* -------------- end: root -------------- */
+

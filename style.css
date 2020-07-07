@@ -305,7 +305,7 @@ header {
 
 .hero__image img {
   min-width: 540px;
-  position: relative;
+  width: 100%;
 }
 
 /* --------- page load animation --------- */
